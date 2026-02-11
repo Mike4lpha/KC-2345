@@ -29,6 +29,7 @@ install(PROGRAMS
     src/shape_detector_task4b.py
     src/ebot_nav_task5.py
     src/shape_detector_task5.py
+    src/shape_detector_task5_alt.py
     DESTINATION lib/${PROJECT_NAME}
 )
 
