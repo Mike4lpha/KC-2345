@@ -27,6 +27,8 @@ endif()
 install(PROGRAMS
     src/ebot_nav_task4b.py
     src/shape_detector_task4b.py
+    src/ebot_nav_task5.py
+    src/shape_detector_task5.py
     DESTINATION lib/${PROJECT_NAME}
 )
 
